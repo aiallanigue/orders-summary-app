@@ -78,7 +78,7 @@ To create and push a new repo:
 ```bash
 git init
 git add .
-git commit -m "Initial submission (tweaked)"
+git commit -m "Initial submission"
 git branch -M main
 git remote add origin YOUR_URL
 git push -u origin main
